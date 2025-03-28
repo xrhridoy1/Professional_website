@@ -36,3 +36,54 @@
   color: #ffffff;
   font-weight: 500;
 }
+
+.selection{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.catagori{
+  background-color: #d9fde9;
+  padding: 50px 50px;
+  position: relative;
+  border-radius: 10px;
+  margin-bottom: 4px;
+ 
+
+  img{
+    width: 66px;
+    position: relative;
+    margin-bottom: 20px;
+  }
+}
+
+.catagori-2{
+  padding: 50px 50px;
+  position: relative;
+  border-radius: 10px;
+  margin-bottom: 4px;
+
+
+  img{
+    width: 66px;
+    position: relative;
+    margin-bottom: 20px ;
+  }
+}
+
+.card {
+  border:none;
+  border-radius: 15px;
+  transition: all 1s;
+  height: fit-content;
+
+}
+
+.card-footer{
+  border-top: none;
+  background-color: #ffffff;
+  border-radius: 15px;
+  
+}
+.card-section{
+  margin-bottom: 100px;
+}
