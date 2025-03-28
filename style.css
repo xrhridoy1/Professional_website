@@ -1,0 +1,38 @@
+.content-bg{
+  background-color: #F0FFF0;
+}
+
+.sing-ing-btn{
+  border: none;
+  border-radius: 50px;
+  padding: 0px 20px;
+  background-color: #50d050;
+  color: #ffffff;
+  font-weight: 700;
+}
+.nav-item{
+  margin-right: 30px;
+  font-weight: 600;
+}
+.head-text{
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+
+
+}
+.line-gap{
+  margin-bottom: 30px;
+}
+.banner-style{
+  padding: 20px 15px;
+}
+
+.button-all{
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: #50d050;
+  color: #ffffff;
+  font-weight: 500;
+}
