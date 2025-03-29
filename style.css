@@ -87,3 +87,27 @@
 .card-section{
   margin-bottom: 100px;
 }
+.man-intro{
+  height: 200px;
+  p{
+    margin-left:30px;
+  }
+}
+.footer-de{
+  padding-top: 50px;
+  padding: 50px 15px ;
+  background-color: #282531;
+  a{
+    color: #ffffff;
+    text-decoration: none;
+  }
+}
+
+.bg-footer-color{
+  background-color: #282531;
+  color: #ffffff;
+}
+.footer-line-text{
+  margin-top: 100px;
+
+}
