@@ -1,3 +1,9 @@
+::selection{
+  color: #000000;
+  background-color: #ffff00;
+}
+
+
 .nav-position {
   background-color:#F0FFF0;
   top: 1px;
@@ -118,4 +124,10 @@
 .footer-line-text{
   margin-top: 100px;
 
+}
+.foot-text a{
+  &:hover{
+    text-decoration: underline;
+    
+  }
 }
