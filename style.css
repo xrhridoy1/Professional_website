@@ -1,3 +1,11 @@
+.nav-position {
+  background-color:#F0FFF0;
+  top: 1px;
+  left: ;
+  z-index: 10;
+
+}
+
 .content-bg{
   background-color: #F0FFF0;
 }
